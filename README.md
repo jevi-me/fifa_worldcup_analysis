@@ -12,4 +12,4 @@
 ![presentation_images](/resources/presentation_images/Group2_Term_Project_Final_Presentation_012.png)
 ![presentation_images](/resources/presentation_images/Group2_Term_Project_Final_Presentation_013.png)
 ![presentation_images](/resources/presentation_images/Group2_Term_Project_Final_Presentation_014.png)
-[/resources/Group2_Term_Project_Final_ReportAppendix.pdf](/resources/presentation_images/Group2_Term_Project_Final_Presentation_015.png)
+[![presentation_images](/resources/presentation_images/Group2_Term_Project_Final_Presentation_015.png)](/resources/Group2_Term_Project_Final_ReportAppendix.pdf)
